@@ -15,10 +15,7 @@ Aplicação inspirada no Twitter, com funcionalidades essenciais como feed de po
 
 ```bash
 # Clonar o projeto
-git clone https://github.com/SEU_USUARIO/NOME_DO_PROJETO.git
-
-# Entrar na pasta
-cd NOME_DO_PROJETO
+git clone https://github.com/NathaliaStilpen/twitter.git
 
 # Instalar dependências (ajuste conforme sua stack)
 npm install
